@@ -1,0 +1,24 @@
+package potencia_MarcosHenrique;
+import java.util.Scanner;
+public class Potencia_MarcosHenrique
+{
+	public static void main(String[] args)
+	{
+		Scanner leitor = new Scanner(system.in);
+		System.out.println("Digite um número:");
+		int num = leitor.nextInt();
+		Int potencia;
+
+		System.out.println("A Potencia de 0 a 15 do número escolhido:")
+		for(int i=0; i<-15;i++)
+		{
+		
+			Potencia = (int)Math.pow(num,i);
+			System.out.println(num +"x"+1+"="+ potencia);
+		}
+	
+		
+	}
+
+	
+}
